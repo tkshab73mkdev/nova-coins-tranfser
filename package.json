@@ -1,0 +1,34 @@
+{
+    "name": "nova-coins-tranfser",
+    "description": "check when any member transfer nova coins to spefic owner(s) or members, collected system & special event",
+    "version": "5.0.0",
+    "main": "./src/util.js",
+    "scripts": {
+        "start": "node ./src/util.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.16.3"
+    },
+    "devDependencies": {
+        "@types/node": "^22.10.1"
+    },
+    "keywords": [
+        "discord",
+        "discord.js",
+        "nova-coins",
+        "nova-transfer",
+        "discord-nova",
+        "discord-nova",
+        "discord-transfer",
+        "nova-transfer",
+        "nova-transfer",
+        "transfer-nova",
+        "nova-tax",
+        "nova-tax",
+        "discord-nova-tax",
+        "nova-coins-tax",
+        "tax-nova"
+    ],
+    "author": "",
+    "license": "ISC"
+}
